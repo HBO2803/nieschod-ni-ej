@@ -3,7 +3,7 @@
 div{
     background-color: rgb(170, 17, 17);
     margin:auto;
-    max-width: 150px;
+    max-width: 125px;
     padding: 10px;
 }
 body{
@@ -27,4 +27,5 @@ img{
 a{
     color:aquamarine;
 }
+
 
