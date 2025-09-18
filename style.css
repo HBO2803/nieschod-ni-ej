@@ -1,40 +1,29 @@
-#tytul
-{
-    color:blueviolet; 
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
 
 
-p{
-    color:red;
-    font-size:xx-large;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+div{
+    background-color: rgb(170, 17, 17);
+    margin:auto;
+    max-width: 150px;
+    padding: 10px;
 }
 body{
     
-    color:rgb(73, 109, 16);
-    background-color: darkkhaki;
+    color:rgb(67, 158, 219);
+    background-color: rgb(0, 0, 0);
     background-image:url("informatyka.jpg");
 }
-img{
-    width:500px;
-}
-
 .font1
 {
-  font-family: "Danfo", serif;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
   font-variation-settings: "ELSH" 0;
-  color:chocolate;
+  color:rgb(13, 31, 133);
+}
+img{
+    width:500px;
 }
 a{
-    color:aqua
-}
-div{
-    background-color: chocolate;
-    margin:auto;
-    max-width: 500px;
-    padding:10px;
+    color:aquamarine;
 }
